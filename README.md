@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Технічні роботи пішли наху
 
 <!--
 **Cvensis/Cvensis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
